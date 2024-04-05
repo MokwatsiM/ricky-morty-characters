@@ -1,0 +1,9 @@
+{
+  "@@locale": "en",
+  "appName": "Rick and Morty Characters",
+  "couldNotRetrieve": "could not retrieve the characters",
+  "errorOccured": "an error occured",
+  "gender": "Gender:",
+  "origin": "Origin",
+  "location": "Location"
+}
