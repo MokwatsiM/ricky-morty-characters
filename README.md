@@ -1,4 +1,4 @@
-# question_3
+# rick_morty_character
 
 A new Flutter project.
 
